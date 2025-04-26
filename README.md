@@ -200,6 +200,8 @@ Before setting up the project, ensure you have the following installed:
 ### Endpoints
 
 #### `POST /api/feedback`
+(https://github.com/user-attachments/assets/5ff4639b-47be-4350-9f87-fca016d96c47)
+
 - **Purpose**: Submit new feedback
 - **Request Body**:
   ```json
@@ -229,6 +231,10 @@ Before setting up the project, ensure you have the following installed:
   ```
 
 #### `GET /api/feedback`
+
+(https://github.com/user-attachments/assets/da99a318-c83a-4a60-8e17-e3e77dfca4ea)
+
+
 - **Purpose**: Retrieve feedback with optional filtering
 - **Query Parameters**:
   - `category`: Filter by category (`suggestion`, `bug report`, `feature request`, `other`)
