@@ -1,5 +1,3 @@
-# liaplus-feedback
-user feedback system
 
 # 🚀 User Feedback System
 
